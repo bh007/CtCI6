@@ -1,6 +1,6 @@
 package CtCl6.Ch02.Q2_01_Remove_Dups;
 
-import CtCILibrary.CtCILibrary.LinkedListNode;
+import CtCILibrary.LinkedListNode;
 
 public class QuestionC {
 	public static void deleteDups(LinkedListNode head) {

@@ -1,6 +1,6 @@
 package CtCl6.Ch02.Q2_04_Partition;
 
-import CtCILibrary.CtCILibrary.LinkedListNode;
+import CtCILibrary.LinkedListNode;
 
 public class QuestionC {
 
