@@ -1,4 +1,4 @@
-package Q16_23_Rand7_From_Rand5;
+package CtCl6.Ch16.Q16_23_Rand7_From_Rand5;
 
 public class Question {
 	public static int rand7() {
