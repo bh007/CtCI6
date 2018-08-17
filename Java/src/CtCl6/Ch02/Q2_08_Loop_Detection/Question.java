@@ -1,6 +1,6 @@
 package CtCl6.Ch02.Q2_08_Loop_Detection;
 
-import CtCILibrary.CtCILibrary.LinkedListNode;
+import CtCILibrary.LinkedListNode;
 
 public class Question {
 
