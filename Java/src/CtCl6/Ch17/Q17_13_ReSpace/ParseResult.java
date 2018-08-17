@@ -1,4 +1,4 @@
-package Q17_13_ReSpace;
+package CtCl6.Ch17.Q17_13_ReSpace;
 
 public class ParseResult {
 	public int invalid = Integer.MAX_VALUE;

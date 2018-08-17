@@ -1,4 +1,4 @@
-package Q17_18_Shortest_Supersequence;
+package CtCl6.Ch17.Q17_18_Shortest_Supersequence;
 
 public class HeapNode implements Comparable<HeapNode> {
 	public int locationWithinList;

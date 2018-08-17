@@ -1,4 +1,4 @@
-package Q17_02_Shuffle;
+package CtCl6.Ch17.Q17_02_Shuffle;
 
 import CtCILibrary.AssortedMethods;
 

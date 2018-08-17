@@ -1,4 +1,4 @@
-package Q17_08_Circus_Tower;
+package CtCl6.Ch17.Q17_08_Circus_Tower;
 
 public class HtWt implements Comparable<HtWt> {
 	private int height;

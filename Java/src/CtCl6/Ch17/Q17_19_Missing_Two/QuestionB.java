@@ -1,4 +1,4 @@
-package Q17_19_Missing_Two;
+package CtCl6.Ch17.Q17_19_Missing_Two;
 
 public class QuestionB {
 	public static int missingOne(int[] array) {

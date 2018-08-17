@@ -1,4 +1,4 @@
-package Q17_23_Max_Black_Square;
+package CtCl6.Ch17.Q17_23_Max_Black_Square;
 
 public class SquareCell {
 	public int zerosRight = 0;

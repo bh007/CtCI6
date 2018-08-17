@@ -1,4 +1,4 @@
-package Q17_21_Volume_of_Histogram;
+package CtCl6.Ch17.Q17_21_Volume_of_Histogram;
 
 public class QuestionB {
 	public static int borderedVolume(HistogramData[] data, int start, int end) {

@@ -1,4 +1,4 @@
-package Q17_25_Word_Rectangle;
+package CtCl6.Ch17.Q17_25_Word_Rectangle;
 
 import CtCILibrary.Trie;
 

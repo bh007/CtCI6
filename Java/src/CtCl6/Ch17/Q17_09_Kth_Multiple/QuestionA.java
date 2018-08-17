@@ -1,4 +1,4 @@
-package Q17_09_Kth_Multiple;
+package CtCl6.Ch17.Q17_09_Kth_Multiple;
 
 import java.util.ArrayList;
 import java.util.Collections;

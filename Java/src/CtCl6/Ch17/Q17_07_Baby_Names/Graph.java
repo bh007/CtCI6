@@ -1,4 +1,4 @@
-package Q17_07_Baby_Names;
+package CtCl6.Ch17.Q17_07_Baby_Names;
 
 import java.util.ArrayList;
 import java.util.HashMap;

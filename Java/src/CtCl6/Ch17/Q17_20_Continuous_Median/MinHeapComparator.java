@@ -1,4 +1,4 @@
-package Q17_20_Continuous_Median;
+package CtCl6.Ch17.Q17_20_Continuous_Median;
 
 import java.util.Comparator;
 

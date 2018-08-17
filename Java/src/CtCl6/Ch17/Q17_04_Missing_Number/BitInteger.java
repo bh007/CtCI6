@@ -1,4 +1,4 @@
-package Q17_04_Missing_Number;
+package CtCl6.Ch17.Q17_04_Missing_Number;
 
 public class BitInteger {
 	public static int INTEGER_SIZE;

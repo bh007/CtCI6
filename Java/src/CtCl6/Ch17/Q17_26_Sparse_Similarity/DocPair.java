@@ -1,4 +1,4 @@
-package Q17_26_Sparse_Similarity;
+package CtCl6.Ch17.Q17_26_Sparse_Similarity;
 
 public class DocPair {
 	public int doc1;

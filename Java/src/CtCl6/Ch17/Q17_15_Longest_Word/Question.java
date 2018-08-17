@@ -1,4 +1,4 @@
-package Q17_15_Longest_Word;
+package CtCl6.Ch17.Q17_15_Longest_Word;
 
 import java.util.Arrays;
 import java.util.HashMap;

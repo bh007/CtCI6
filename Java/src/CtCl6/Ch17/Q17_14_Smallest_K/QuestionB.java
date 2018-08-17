@@ -1,4 +1,4 @@
-package Q17_14_Smallest_K;
+package CtCl6.Ch17.Q17_14_Smallest_K;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

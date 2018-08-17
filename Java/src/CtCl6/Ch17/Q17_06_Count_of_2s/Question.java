@@ -1,4 +1,4 @@
-package Q17_06_Count_of_2s;
+package CtCl6.Ch17.Q17_06_Count_of_2s;
 
 public class Question {	
 	public static int count2sInRangeAtDigit(int number, int d) {

@@ -1,4 +1,4 @@
-package Q17_11_Word_Distance;
+package CtCl6.Ch17.Q17_11_Word_Distance;
 
 import java.util.ArrayList;
 import java.util.HashMap;

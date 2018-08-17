@@ -1,4 +1,4 @@
-package Q17_22_Word_Transformer;
+package CtCl6.Ch17.Q17_22_Word_Transformer;
 
 import java.util.HashMap;
 import java.util.LinkedList;

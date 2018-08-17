@@ -1,4 +1,4 @@
-package Q17_17_Multi_Search;
+package CtCl6.Ch17.Q17_17_Multi_Search;
 
 import java.util.ArrayList;
 import java.util.HashMap;

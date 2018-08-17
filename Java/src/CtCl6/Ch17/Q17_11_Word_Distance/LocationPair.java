@@ -1,4 +1,4 @@
-package Q17_11_Word_Distance;
+package CtCl6.Ch17.Q17_11_Word_Distance;
 
 public class LocationPair {
 	public int location1;

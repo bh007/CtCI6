@@ -1,4 +1,4 @@
-package Q17_03_Random_Set;
+package CtCl6.Ch17.Q17_03_Random_Set;
 
 import CtCILibrary.AssortedMethods;
 

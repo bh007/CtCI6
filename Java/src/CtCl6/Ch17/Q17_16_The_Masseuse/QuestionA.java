@@ -1,4 +1,4 @@
-package Q17_16_The_Masseuse;
+package CtCl6.Ch17.Q17_16_The_Masseuse;
 
 public class QuestionA {
 	public static int maxMinutes(int[] massages) {

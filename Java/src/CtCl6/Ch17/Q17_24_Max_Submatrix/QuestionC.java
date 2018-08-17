@@ -1,4 +1,4 @@
-package Q17_24_Max_Submatrix;
+package CtCl6.Ch17.Q17_24_Max_Submatrix;
 
 import CtCILibrary.AssortedMethods;
 

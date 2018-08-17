@@ -1,4 +1,4 @@
-package Q17_10_Majority_Element;
+package CtCl6.Ch17.Q17_10_Majority_Element;
 
 public class QuestionB {
 	

@@ -1,4 +1,4 @@
-package Q17_12_BiNode;
+package CtCl6.Ch17.Q17_12_BiNode;
 
 public class BiNode {
 	public BiNode node1;

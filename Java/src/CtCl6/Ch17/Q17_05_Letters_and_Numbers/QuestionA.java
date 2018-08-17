@@ -1,4 +1,4 @@
-package Q17_05_Letters_and_Numbers;
+package CtCl6.Ch17.Q17_05_Letters_and_Numbers;
 
 public class QuestionA {
 	public static char[] extractSubarray(char[] array, int start, int end) {
